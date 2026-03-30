@@ -1,0 +1,122 @@
+﻿modalite;id;replicat;plante;espece;force poinconnement N;enfoncement mm;force traction N;allongement mm
+Neuve;N1;N1a;sans;NA;336;21,75;NA;NA
+Neuve;N1;N1b;sans;NA;328;21,44;NA;NA
+Neuve;N1;N1c;sans;NA;337;21,65;NA;NA
+Neuve;N1;N1d;sans;NA;336;21,71;NA;NA
+Neuve;N1;N1e;sans;NA;328;21,42;NA;NA
+Neuve;N1;N1f;sans;NA;334;21,52;NA;NA
+Neuve;N1;N1g;sans;NA;331;21,41;NA;NA
+Neuve;N1;N1h;sans;NA;320;21,19;NA;NA
+Neuve;N1;N1i;sans;NA;324;21,42;NA;NA
+Neuve;N1;N1j;sans;NA;309;21,95;NA;NA
+Neuve;N2;N2a;sans;NA;338;21,40;NA;NA
+Neuve;N2;N2b;sans;NA;331;21,32;NA;NA
+Neuve;N2;N2c;sans;NA;329;21,24;NA;NA
+Neuve;N2;N2d;sans;NA;330;21,33;NA;NA
+Neuve;N2;N2e;sans;NA;329;21,32;NA;NA
+Neuve;N2;N2f;sans;NA;313;20,76;NA;NA
+Neuve;N2;N2g;sans;NA;324;21,08;NA;NA
+Neuve;N2;N2h;sans;NA;331;21,58;NA;NA
+Neuve;N2;N2i;sans;NA;328;21,43;NA;NA
+Neuve;N2;N2j;sans;NA;324;21,48;NA;NA
+Neuve;N3;N3a;sans;NA;NA;NA;144;83,38
+Neuve;N3;N3b;sans;NA;NA;NA;135;78,99
+Neuve;N3;N3c;sans;NA;NA;NA;139;79,41
+Neuve;N3;N3d;sans;NA;NA;NA;144;83,61
+Neuve;N3;N3e;sans;NA;NA;NA;143;82,22
+Neuve;N4;N4a;sans;NA;NA;NA;136;83,04
+Neuve;N4;N4b;sans;NA;NA;NA;136;82,49
+Neuve;N4;N4c;sans;NA;NA;NA;132;81,29
+Neuve;N4;N4d;sans;NA;NA;NA;134;83,22
+Neuve;N4;N4e;sans;NA;NA;NA;131;NA
+Témoin;T1;T1a;sans;NA;356;22,91;NA;NA
+Témoin;T1;T1b;sans;NA;343;21,94;NA;NA
+Témoin;T1;T1c;sans;NA;352;22,87;NA;NA
+Témoin;T2;T2a;sans;NA;327;21,24;NA;NA
+Témoin;T2;T2b;sans;NA;311;20,30;NA;NA
+Témoin;T2;T2c;sans;NA;319;21,35;NA;NA
+Témoin;T3;T3a;sans;NA;349;22,83;NA;NA
+Témoin;T3;T3b;sans;NA;328;21,21;NA;NA
+Témoin;T3;T3c;sans;NA;318;20,98;NA;NA
+Témoin;T4;T4a;sans;NA;316;21,12;NA;NA
+Témoin;T4;T4b;sans;NA;326;21,74;NA;NA
+Témoin;T4;T4c;sans;NA;320;21,39;NA;NA
+Témoin;T5;T5a;sans;NA;NA;NA;140;NA
+Témoin;T5;T5b;sans;NA;NA;NA;141;82,90
+Témoin;T5;T5c;sans;NA;NA;NA;141;76,11
+Témoin;T5;T5d;sans;NA;NA;NA;138;80,08
+Témoin;T5;T5e;sans;NA;NA;NA;135;78,53
+Témoin;T5;T5f;sans;NA;NA;NA;139;80,91
+Témoin;T5;T5g;sans;NA;NA;NA;138;79,89
+Témoin;T6;T6a;sans;NA;NA;NA;140;82,68
+Témoin;T6;T6b;sans;NA;NA;NA;143;86,32
+Témoin;T6;T6c;sans;NA;NA;NA;141;83,41
+Témoin;T6;T6d;sans;NA;NA;NA;141;84,24
+Témoin;T6;T6e;sans;NA;NA;NA;141;83,12
+Témoin;T6;T6f;sans;NA;NA;NA;141;83,38
+Témoin;T6;T6g;sans;NA;NA;NA;140;80,66
+Carex;E2;C1a;avec;Carex nigra;413;24,12;NA;NA
+Carex;E2;C1b;avec;Carex nigra;401;22,90;NA;NA
+Carex;E2;C1c;avec;Carex nigra;353;23,15;NA;NA
+Carex;E3;C2a;avec;Carex nigra;NA;NA;139;80,79
+Carex;E3;C2b;avec;Carex nigra;NA;NA;138;81,14
+Carex;E3;C2c;avec;Carex nigra;NA;NA;141;83,18
+Carex;E3;C2d;avec;Carex nigra;NA;NA;138;80,39
+Carex;E3;C2e;avec;Carex nigra;NA;NA;142;84,28
+Carex;E3;C2f;avec;Carex nigra;NA;NA;141;83,12
+Carex;E3;C2g;avec;Carex nigra;NA;NA;141;82,33
+Carex;E7;C3a;avec;Carex nigra;331;21,76;NA;NA
+Carex;E7;C3b;avec;Carex nigra;319;21,05;NA;NA
+Carex;E7;C3c;avec;Carex nigra;295;20,33;NA;NA
+Eriophorum;E1;E1a;avec;Eriophorum angustifolium;363;23,47;NA;NA
+Eriophorum;E1;E1b;avec;Eriophorum angustifolium;356;22,84;NA;NA
+Eriophorum;E1;E1c;avec;Eriophorum angustifolium;352;23,17;NA;NA
+Eriophorum;E4;E4a;avec;Eriophorum angustifolium;NA;NA;141;84,36
+Eriophorum;E4;E4b;avec;Eriophorum angustifolium;NA;NA;136;80,52
+Eriophorum;E4;E4c;avec;Eriophorum angustifolium;NA;NA;140;84,92
+Eriophorum;E4;E4d;avec;Eriophorum angustifolium;NA;NA;138;81,56
+Eriophorum;E4;E4e;avec;Eriophorum angustifolium;NA;NA;138;81,53
+Eriophorum;E4;E4f;avec;Eriophorum angustifolium;NA;NA;136;79,05
+Eriophorum;E4;E4g;avec;Eriophorum angustifolium;NA;NA;137;81,72
+Eriophorum;E5;E5a;avec;Eriophorum angustifolium;332;21,14;NA;NA
+Eriophorum;E5;E5b;avec;Eriophorum angustifolium;350;22,34;NA;NA
+Eriophorum;E5;E5c;avec;Eriophorum angustifolium;330;21,67;NA;NA
+Eriophorum;E6;E6a;avec;Eriophorum angustifolium;NA;NA;135;78,09
+Eriophorum;E6;E6b;avec;Eriophorum angustifolium;NA;NA;135;80,59
+Eriophorum;E6;E6c;avec;Eriophorum angustifolium;NA;NA;135;78,66
+Eriophorum;E6;E6d;avec;Eriophorum angustifolium;NA;NA;139;82,58
+Eriophorum;E6;E6e;avec;Eriophorum angustifolium;NA;NA;137;81,36
+Eriophorum;E6;E6f;avec;Eriophorum angustifolium;NA;NA;133;78,20
+Eriophorum;E6;E6g;avec;Eriophorum angustifolium;NA;NA;140;82,61
+Eriophorum;E8;E8a;avec;Eriophorum angustifolium;309;20,32;NA;NA
+Eriophorum;E8;E8b;avec;Eriophorum angustifolium;320;21,04;NA;NA
+Eriophorum;E8;E8c;avec;Eriophorum angustifolium;344;22,49;NA;NA
+Phragmites;P1;P1a;avec;Phragmites australis;350;21,91;NA;NA
+Phragmites;P1;P1b;avec;Phragmites australis;344;21,57;NA;NA
+Phragmites;P1;P1c;avec;Phragmites australis;405;23,81;NA;NA
+Phragmites;P2;P2a;avec;Phragmites australis;327;21,31;NA;NA
+Phragmites;P2;P2b;avec;Phragmites australis;351;23,08;NA;NA
+Phragmites;P2;P2c;avec;Phragmites australis;351;23,24;NA;NA
+Phragmites;P3;P3a;avec;Phragmites australis;NA;NA;134;79,32
+Phragmites;P3;P3b;avec;Phragmites australis;NA;NA;137;81,26
+Phragmites;P3;P3c;avec;Phragmites australis;NA;NA;134;80,48
+Phragmites;P3;P3d;avec;Phragmites australis;NA;NA;134;79,70
+Phragmites;P3;P3e;avec;Phragmites australis;NA;NA;135;80,19
+Phragmites;P3;P3f;avec;Phragmites australis;NA;NA;136;81,02
+Phragmites;P3;P3g;avec;Phragmites australis;NA;NA;133;77,86
+Phragmites;P4;P4a;avec;Phragmites australis;392;23,01;NA;NA
+Phragmites;P4;P4b;avec;Phragmites australis;344;21,63;NA;NA
+Phragmites;P4;P4c;avec;Phragmites australis;338;21,69;NA;NA
+Phragmites;P6;P6a;avec;Phragmites australis;401;23,22;NA;NA
+Phragmites;P6;P6b;avec;Phragmites australis;348;22,57;NA;NA
+Phragmites;P6;P6c;avec;Phragmites australis;334;21,97;NA;NA
+Phragmites;P7;P7a;avec;Phragmites australis;NA;NA;137;79,42
+Phragmites;P7;P7b;avec;Phragmites australis;NA;NA;139;80,95
+Phragmites;P7;P7c;avec;Phragmites australis;NA;NA;137;80,34
+Phragmites;P7;P7d;avec;Phragmites australis;NA;NA;135;78,67
+Phragmites;P7;P7e;avec;Phragmites australis;NA;NA;144;84,56
+Phragmites;P7;P7f;avec;Phragmites australis;NA;NA;140;81,71
+Phragmites;P7;P7g;avec;Phragmites australis;NA;NA;145;85,46
+Phragmites;P8;P8a;avec;Phragmites australis;334;21,68;NA;NA
+Phragmites;P8;P8b;avec;Phragmites australis;329;21,34;NA;NA
+Phragmites;P8;P8c;avec;Phragmites australis;324;21,34;NA;NA

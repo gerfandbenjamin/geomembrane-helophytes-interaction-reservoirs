@@ -1,0 +1,23 @@
+﻿modalite;id;plante;espece;taux_plas_1;taux_plas_2;taux_plas_moy
+Carex;C1;avec;Carex nigra;30,2;33,6;31,9
+Carex;C2;avec;Carex nigra;33,8;33,8;33,8
+Carex;C3;avec;Carex nigra;33,8;33,1;33,45
+Eriophorum;E1;avec;Eriophorum angustifolium;34,1;33,8;33,95
+Eriophorum;E4;avec;Eriophorum angustifolium;33,8;36,3;35,05
+Eriophorum;E5;avec;Eriophorum angustifolium;31,9;29,4;30,65
+Eriophorum;E6;avec;Eriophorum angustifolium;34,3;35,4;34,85
+Eriophorum;E8;avec;Eriophorum angustifolium;34,3;33,3;33,8
+Phragmites;P1;avec;Phragmites australis;33,6;33,8;33,7
+Phragmites;P2;avec;Phragmites australis;30,3;29,8;30,05
+Phragmites;P3;avec;Phragmites australis;34,5;34,7;34,6
+Phragmites;P4;avec;Phragmites australis;34;34,1;34,05
+Phragmites;P6;avec;Phragmites australis;34,1;34,1;34,1
+Phragmites;P7;avec;Phragmites australis;34,3;34,3;34,3
+Phragmites;P8;avec;Phragmites australis;33,2;34,1;33,65
+Témoin;T1;sans;NA;23,9;20,8;22,35
+Témoin;T2;sans;NA;34,3;33,1;33,7
+Témoin;T3;sans;NA;33,9;34;33,95
+Témoin;T4;sans;NA;33,4;34,2;33,8
+Témoin;T5;sans;NA;30,8;30,4;30,6
+Témoin;T6;sans;NA;34,1;34,5;34,3
+Neuve;N1;sans;NA;28,8;33,6;31,2
