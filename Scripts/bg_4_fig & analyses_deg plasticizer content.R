@@ -16,7 +16,6 @@ library(rstatix)
 
 data_path <- "data_path"  # adapt to your project structure (file = "Data_for_R)
 
-#geo  <- read.csv2(file.path(data_path, "bg_geomembranes.csv"), sep = ";", dec = ",")
 plas <- read.csv2(file.path(data_path, "bg_plastifiants_geomembranes.csv"), sep = ";", dec = ",")
 
 ##########################
